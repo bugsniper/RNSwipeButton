@@ -2,10 +2,10 @@ import {StyleSheet} from 'react-native';
 
 const Styles = StyleSheet.create({
   container: {
-    borderRadius: 100 / 2,
+    borderRadius: 5,
     borderWidth: 1,
     justifyContent: 'center',
-    margin: 5,
+    margin: 0,
   },
   title: {
     alignSelf: 'center',
